@@ -5,4 +5,7 @@ Il est publié en ligne gratuitement sur Gd games [https://gd.games/francoisa/co
 Le répertoire de ressources (assets en anglais) est sous licence MIT de GDevelop.
 
 Les versions Linux (App Image), Windows (Programme d'installation automatique en .EXE) et MacOS (en .ZIP)
-seront publiés sur ce GitHub.
+seront publiées avec leur nom exact sur ce GitHub.
+Mais malheureusement du à leur taille, GitHub ne permet pas de les mettre à disposition.
+
+Contacter le développeur par courriel pour qu'il vous envoient le bon fichier par WeTransfert ou équivalent.
