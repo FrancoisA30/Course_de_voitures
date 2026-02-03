@@ -1,5 +1,5 @@
 
-Course_de_voitures est un jeu 2D libre fait avec GDevelop 5 en janvier 2026.
+Course_de_voitures est un jeu 2D libre fait avec GDevelop 5 fin janvier 2026.
 Il est publié en ligne gratuitement sur Gd games [https://gd.games/francoisa/course-de-voitures] en HTML5.
 
 Le répertoire de ressources (assets en anglais) est sous licence MIT de GDevelop.
