@@ -1,8 +1,10 @@
 
 Course_de_voitures est un jeu 2D libre fait avec GDevelop 5 fin janvier 2026.
-Il est publié en ligne gratuitement sur Gd games (https://gd.games/francoisa/course-de-voitures) et itch.io 
-(https://francoisa30.itch.io/course-de-voitures)en HTML5.
 
+Il est jouable en ligne gratuitement sur Gd games (https://gd.games/francoisa/course-de-voitures) et itch.io 
+(https://francoisa30.itch.io/course-de-voitures) en HTML5 grace à votre navigateur.
+
+Sur GitHub :
 Le répertoire de ressources (assets en anglais) est sous licence MIT de GDevelop.
 Tout le reste est sous licence GNU GPL V3.0.
 
